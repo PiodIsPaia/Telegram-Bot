@@ -1,7 +1,6 @@
 import TelegramBot from "node-telegram-bot-api";
 import OpenAI from "openai";
-import * as dotenv from "dotenv";
-dotenv.config();
+import "dotenv/config";
 
 const openai = new OpenAI({ apiKey: process.env.API_KEY });
 const token = process.env.BOT_TOKEN as string;
