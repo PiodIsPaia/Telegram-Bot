@@ -13,7 +13,7 @@ Antes de começar, você precisará de:
 
 1. Clone este repositório em sua máquina local usando: 
 
-- git clone https://github.com/iFariasZ/Ilusion-Telegram-Bot
+- git clone https://github.com/PiodIsPaia/Ilusion-Telegram-Bot
 
 2. Acesse o diretório do projeto
 
